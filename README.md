@@ -1,1 +1,1 @@
-# yesno
+# YesNo診断
